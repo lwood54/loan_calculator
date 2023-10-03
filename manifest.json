@@ -1,0 +1,11 @@
+{
+  "name": "Loan Calculator",
+  "version": "0.0.1",
+  "description": "Calculate a variety of different loan types.",
+  "manifest_version": 3,
+  "author": "Logan",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Calculator"
+  }
+}
